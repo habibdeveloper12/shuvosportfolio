@@ -1,6 +1,6 @@
 body{
-   margin: 0;
-   
+   margin: 0%;
+
   font-family: 'Fredericka the Great', cursive;
 
   font-family: 'Poppins', sans-serif;
@@ -8,12 +8,12 @@ body{
 }
 .top-gird{
 display: flex;
-margin: 0;
+
 background-image: url(top-banner.png);
-padding: 0;
+
 background-repeat: no-repeat;
 background-position: left;
-
+width: 100%;
 }
 h1{
   font-size: 35px;
